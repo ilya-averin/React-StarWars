@@ -1,0 +1,11 @@
+.error-indicator{
+	margin: 0 auto;
+	color: #d1a41f;
+}
+
+.error-indicator img{
+	margin-bottom: 1rem;
+}
+img{
+	vertical-align: middle;
+}
