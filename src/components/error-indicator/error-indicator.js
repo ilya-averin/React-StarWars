@@ -8,14 +8,14 @@ const ErrorIndicator = () => {
 		<div className="error-indicator">
 			<img src = {icon} alt="error icon" />
 			<span className="boom">BOOM!!!</span>
-			<br/>
-			<span>
-				something has gone terribly wrong,
-			</span>
-			<br/>
-			<span>
-				(but we already sent droids to fix it)
-			</span>
+				<br/>
+					<span>
+						something has gone terribly wrong,
+					</span>
+				<br/>
+					<span>
+						(but we already sent droids to fix it)
+					</span>
 		</div>
 	);
 };
